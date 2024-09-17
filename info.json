@@ -1,0 +1,29 @@
+{
+  "id": "plugin.com.pot-app.chaoxing-ocr",
+  "plugin_type": "recognize",
+  "display": "超星OCR识别",
+  "homepage": "https://github.com/your-repo/pot-app-recognize-plugin-chaoxing-ocr",
+  "icon": "icon.png",
+  "needs": [],
+  "language": {
+    "auto": "auto",
+    "zh_cn": "zh-Hans",
+    "zh_tw": "zh-Hant",
+    "en": "en",
+    "ja": "ja",
+    "ko": "ko",
+    "fr": "fr",
+    "es": "es",
+    "ru": "ru",
+    "de": "de",
+    "it": "it",
+    "tr": "tr",
+    "pt_pt": "pt",
+    "pt_br": "pt",
+    "vi": "vi",
+    "th": "th",
+    "ar": "ar",
+    "hi": "hi",
+    "fa": "fa"
+  }
+}
