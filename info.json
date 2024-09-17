@@ -9,21 +9,6 @@
     "auto": "auto",
     "zh_cn": "zh-Hans",
     "zh_tw": "zh-Hant",
-    "en": "en",
-    "ja": "ja",
-    "ko": "ko",
-    "fr": "fr",
-    "es": "es",
-    "ru": "ru",
-    "de": "de",
-    "it": "it",
-    "tr": "tr",
-    "pt_pt": "pt",
-    "pt_br": "pt",
-    "vi": "vi",
-    "th": "th",
-    "ar": "ar",
-    "hi": "hi",
-    "fa": "fa"
+    "en": "en"
   }
 }
