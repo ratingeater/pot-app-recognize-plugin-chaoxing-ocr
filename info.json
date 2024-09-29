@@ -2,7 +2,7 @@
   "id": "plugin.com.pot-app.chaoxing-ocr",
   "plugin_type": "recognize",
   "display": "超星OCR识别",
-  "homepage": "https://github.com/your-repo/pot-app-recognize-plugin-chaoxing-ocr",
+  "homepage": "https://github.com/ratingeater/pot-app-recognize-plugin-chaoxing-ocr",
   "icon": "icon.png",
   "needs": [],
   "language": {

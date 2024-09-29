@@ -44,12 +44,12 @@ async function recognize(base64, lang, options) {
         throw new Error("返回数据格式不正确");
       }
     } else {
-      console.error("请求失败，状态码：", response.status);
-      console.error("响应内容：", response.data);
+      // console.error("请求失败，状态码：", response.status);
+      // console.error("响应内容：", response.data);
       throw new Error(`请求失败，状态码：${response.status}`);
     }
   } catch (error) {
-    console.error("发生错误：", error);
+    // console.error("发生错误：", error);
     throw error;
   }
 }
